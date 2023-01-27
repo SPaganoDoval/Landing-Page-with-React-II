@@ -6,7 +6,7 @@ import ocaminodosfaros from "../../img/ocaminodosfaros.jpg";
 
 //include images into your bundle
 import { Jumbotron } from "./Jumbotron.jsx";
-import { Card } from "./Card.";
+import { Card } from "./Card.jsx";
 import { Navbar } from "./Navbar.jsx";
 
 //create your first component
