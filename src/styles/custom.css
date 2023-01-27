@@ -1,0 +1,31 @@
+img {
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+
+}
+
+.navbar-nav {
+    margin-right: auto;
+}
+
+.jumbotron {
+    background-color: rgb(221, 213, 213);
+    height: auto;
+    padding-left: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 10px;
+}
+
+.navbar-toggler {
+    position: left;
+
+}
+
+.navbar-brand {
+    margin-right: 10%;
+}
+
+.navbar-nav {
+    margin-left: 65%;
+}
